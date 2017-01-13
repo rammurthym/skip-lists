@@ -1,4 +1,4 @@
-# Skip Lists
+# Implementation of Skip Lists in Java
 
 ###### Execution
 	1. SkipList Execution:
